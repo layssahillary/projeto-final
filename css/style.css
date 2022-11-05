@@ -16,10 +16,12 @@
 
 /*BICICLETAS*/
 @import "./bicicletas/bicicletas-listas.css";
+@import "./bicicletas/bicicletas.css";
 
 /*SEGUROS*/
 @import "./seguros/seguros.css";
 
 /*TERMOS*/
 @import "./termos/termos.css";
+
 
