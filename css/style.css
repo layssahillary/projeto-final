@@ -3,6 +3,7 @@
 @import "./utilidades/cores.css";
 
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /*UTILIDADES*/
 @import "./utilidades/componentes.css";
@@ -10,9 +11,15 @@
 /*HOME*/
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /*BICICLETAS*/
 @import "./bicicletas/bicicletas-listas.css";
 
-/*PARCEIROS*/
-@import "./home/parceiros.css";
+/*SEGUROS*/
+@import "./seguros/seguros.css";
+
+/*TERMOS*/
+@import "./termos/termos.css";
+
