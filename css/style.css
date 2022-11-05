@@ -20,6 +20,8 @@
 
 /*SEGUROS*/
 @import "./seguros/seguros.css";
+@import "./seguros/vantangens.css";
+@import "./seguros/perguntas.css";
 
 /*TERMOS*/
 @import "./termos/termos.css";
