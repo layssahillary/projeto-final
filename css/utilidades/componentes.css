@@ -17,6 +17,8 @@
   color: var(--cor-p5);
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 
@@ -85,8 +87,12 @@
   background-color: var(--cor-11);
 }
 
+.titulo {
+  background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
 .titulo p{
-  margin-bottom: 4px;
+  margin-bottom: 4px
 }
 
 @media (max-width:800px){
